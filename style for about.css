@@ -1,0 +1,27 @@
+body {
+    background-image: url("Carbon_Metal_Pattern-PIXEDEN.png");
+    background-color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h2 {
+    color: rgb(76, 196, 170);
+    text-align: center;
+    font-size: 2.3em;
+}
+.anmerkung {
+    color: crimson;
+    text-align: center;
+}
+.anmerkung2 {
+    text-align: center;
+}
+a:link {
+    color: rgb(76, 196, 170);
+}
+a:visited {
+    color: rgb(76, 196, 170);
+}
+div {
+    text-align: center;
+}
